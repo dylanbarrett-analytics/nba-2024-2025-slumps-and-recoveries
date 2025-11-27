@@ -8,9 +8,9 @@ This study analyzes **game-to-game shooting slumps** of NBA players during the 2
 
 **True Shooting Percentage (TS%)** shows how efficiently a player **turns their shooting opportunities into points**, integrating two-point attempts, three-point attempts, and free throw attempts.
 
-\[
-TS\% = \frac{\text{PTS}}{2 \times (\text{FGA} + 0.44 \times \text{FTA})}
-\]
+```math
+TS\% = \frac{PTS}{2 \times (FGA + 0.44 \times FTA)}
+```
 
 > **Game Example:** Cade Cunningham scores 25 points on 15 field goals attempted (FGA) and 6 free throws attempted (FTA).
 >  
