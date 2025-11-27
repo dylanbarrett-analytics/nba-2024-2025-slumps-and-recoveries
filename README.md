@@ -8,9 +8,9 @@ This study analyzes **game-to-game shooting slumps** of NBA players during the 2
 
 **True Shooting Percentage (TS%)** shows how efficiently a player **turns their shooting opportunities into points**, integrating two-point attempts, three-point attempts, and free throw attempts.
 
-$$
-TS\% = \frac{PTS}{2 \times (FGA + 0.44 \times FTA)}
-$$
+\[
+TS\% = \frac{\text{PTS}}{2 \times (\text{FGA} + 0.44 \times \text{FTA})}
+\]
 
 > **Game Example:** Cade Cunningham scores 25 points on 15 field goals attempted (FGA) and 6 free throws attempted (FTA).
 >  
@@ -40,7 +40,9 @@ All game log data was sourced directly from [**Basketball-Reference**](https://w
 ## **Project Goals**
 
 1. Define what a slump is.
+> How exactly does a player "trigger" a slump?
 2. Define what a recovery is.
+> How exactly does a player "trigger" a recovery?
 3. Find out how long it takes players to recover from slumps.
 > Who recovered fastest?
 4. Compare shot volume during slumps vs recoveries.
