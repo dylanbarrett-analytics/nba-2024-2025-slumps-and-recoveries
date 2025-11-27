@@ -15,11 +15,23 @@ TS\% = \frac{PTS}{2 \times (FGA + 0.44 \times FTA)}
 > **Game Example:** Cade Cunningham scores 25 points on 15 field goals attempted (FGA) and 6 free throws attempted (FTA).
 >
 > ```math
-> $$TS\% = \frac{27}{2 \times (16 + 0.44 \times 4)}$$  
-> $$TS\% = \frac{27}{2 \times (16 + 1.76)}$$  
-> $$TS\% = \frac{27}{2 \times 17.76}$$  
-> $$TS\% = \frac{27}{35.52}$$  
-> $$TS\% = 0.760$$  
+> TS\% = \frac{PTS}{2 \times (FGA + 0.44 \times FTA)}
+> ```
+>
+> ```math
+> TS\% = \frac{25}{2 \times (15 + 0.44 \times 6)}
+> ```
+>
+> ```math
+> TS\% = \frac{25}{2 \times (15 + 2.64)}
+> ```
+>
+> ```math
+> TS\% = \frac{25}{2 \times 17.64}
+> ```
+>
+> ```math
+> TS\% = \frac{25}{35.28} = 0.709
 > ```
 > 
 > TS% = 70.9%, which is a highly efficient scoring performance. The NBA average for the 2024-2025 regular season was 58.3%.
