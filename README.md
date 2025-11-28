@@ -58,9 +58,9 @@ All game log data was sourced directly from [**Basketball-Reference**](https://w
 2. Define what a recovery is.
 > How exactly does a player "trigger" a recovery?
 3. Find out how long it takes players to recover from slumps.
-> Who recovered fastest?
+> Who recovered fastest from slumps?
 4. Compare shot volume during slumps vs recoveries.
-> Were there any adjustments from slump → recovery?
+> Were there any shot volume adjustments from slump → recovery?
 
 ---
 
