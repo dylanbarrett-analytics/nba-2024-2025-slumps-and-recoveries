@@ -280,7 +280,7 @@ The evidence isn't overwhelming, but a slight edge goes to players who increased
 
 ### **Tableau Dashboard**
 
-![Dashboard Screenshot](nba_slumps_recoveries_dashboard.png)
+![Dashboard Screenshot](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/tree/main/images)
 
 ---
 
