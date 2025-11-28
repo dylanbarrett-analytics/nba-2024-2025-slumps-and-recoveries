@@ -215,7 +215,7 @@ To trigger a slump, a player must have a game where his TS% is **below the slump
 >
 > Player A has:
 > - Season TS% = 58.0%
-> - σ_{TS%} = 0.15
+> - ```mathσ_{TS%}``` = 0.15
 > - k = 0.5
 >
 > ```math
