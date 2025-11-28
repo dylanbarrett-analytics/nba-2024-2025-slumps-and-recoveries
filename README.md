@@ -207,19 +207,15 @@ To trigger a slump, a player must have a game where his TS% is **below the slump
 ```
 
 - Season TS% = the player's TS% across all regular season games
-- σ_{TS%} = the standard deviation of the player's game-to-game TS% across all regular season games
+- σ₍TS%₎ = the standard deviation of the player's game-to-game TS% across all regular season games
 - k = a chosen multiplier that controls how strict the slump definition is (k = 0.5 in this study)
 
 > **Example:**
 >
 > Player A has:
-> ```math
-> \[
-> \text{Season TS\%} = 58.0\%, \qquad
-> \sigma_{\text{TS\%}} = 0.15, \qquad
-> k = 0.5
-> \]
-> ```
+> - Season TS% = 58.0%
+> - σ₍TS%₎ = 0.15
+> - k = 0.5
 >
 > ```math
 > \text{Slump Threshold} = 0.58 \;-\; 0.5 \times 0.15 = 0.505
