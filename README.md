@@ -284,7 +284,7 @@ The evidence isn't overwhelming, but a slight edge goes to players who increased
 
 ---
 
-## **Conclusion**
+## **Final Thoughts**
 
 Perhaps one of the most interesting findings of this study was **the performance of centers**, as opposed to any other position.
 
