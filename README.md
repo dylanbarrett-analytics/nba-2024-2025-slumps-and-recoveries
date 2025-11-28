@@ -166,7 +166,9 @@ Next, a search for all players without a single 3-point attempt for the entire r
 
 It was confirmed that there was no `three_point_pct` column for any of these players. Therefore, during the import process, all columns to the right of `three_point_pct` were shifted one column to the left.
 
-> For example, for Ivica Zubac on 4/5/2025, he has 0 `three_pointers_made` out of 0 `three_pointers_attempted` for an incorrect `three_point_pct` of 4.0. It turns out, this 4.0 value is actually from the very next column to the right (`two_pointers_made`). With the `three_point_pct` column missing (in the original data), this `two_pointers_made` value of 4.0 was shifted leftward into the `three_point_pct` column (in the Python DataFrame).
+> For example, for Ivica Zubac on 4/5/2025, he has 0 `three_pointers_made` out of 0 `three_pointers_attempted` for an incorrect `three_point_pct` of 4.0.
+> It turns out, this 4.0 value is actually from the very next column to the right (`two_pointers_made`).
+> With the `three_point_pct` column missing (in the original data), this `two_pointers_made` value of 4.0 was shifted leftward into the `three_point_pct` column (in the Python DataFrame).
 
 <sub> After several unsuccessful attempts at addressing this shift issue in Python, I decided to go back to the raw `.txt` file. For these three players without any 3-point attempts, the `three_point_pct` column was manually added with its corresponding `NaN` values. Now the original data is properly aligned and organized.
 
