@@ -91,40 +91,40 @@ All game log data was sourced directly from [**Basketball-Reference**](https://w
 ## **Project Files**
 
 ### **Jupyter Notebooks**
-[`01_NBA_2024_25_cleaning_1.ipynb`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/notebooks/01_NBA_2024_25_cleaning_1.ipynb)
-- Data import, consolidation of all player game logs, and cleaning
-[`02_NBA_2024_25_cleaning_2.ipynb`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/notebooks/02_NBA_2024_25_cleaning_2.ipynb)
-- Data import, consolidation of all player game logs, and cleaning (with corrections made to the raw `.txt` file)
-[`03_NBA_2024_25_merge.ipynb`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/notebooks/03_NBA_2024_25_merge.ipynb)
-- Merge with two additional `.txt` files
-[`04_NBA_2024_25_analysis.ipynb`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/notebooks/04_NBA_2024_25_analysis.ipynb)
-- Analysis of slumps and recoveries
+- [`01_NBA_2024_25_cleaning_1.ipynb`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/notebooks/01_NBA_2024_25_cleaning_1.ipynb)
+Data import, consolidation of all player game logs, and cleaning
+- [`02_NBA_2024_25_cleaning_2.ipynb`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/notebooks/02_NBA_2024_25_cleaning_2.ipynb)
+Data import, consolidation of all player game logs, and cleaning (with corrections made to the raw `.txt` file)
+- [`03_NBA_2024_25_merge.ipynb`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/notebooks/03_NBA_2024_25_merge.ipynb)
+Merge with two additional `.txt` files
+- [`04_NBA_2024_25_analysis.ipynb`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/notebooks/04_NBA_2024_25_analysis.ipynb)
+Analysis of slumps and recoveries
 
 ### **CSV Exports - Cleaning**
-[`NBA_2024_25_game_logs_final.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/cleaning_csv/NBA_2024_25_game_logs_final.csv)
-- Cleaned player game logs (prepped for analysis)
+- [`NBA_2024_25_game_logs_final.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/cleaning_csv/NBA_2024_25_game_logs_final.csv)
+Cleaned player game logs (prepped for analysis)
 
 ### **CSV Exports - Analysis**
-[`player_slump_vs_recovery_ts.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/player_slump_vs_recovery_ts.csv)
-- TS% in slumps vs TS% in recoveries (player-level)
-[`all_slumps.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/all_slumps.csv)
-- Summary table of all slumps
-[`recovered_slumps.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/recovered_slumps.csv)
-- Summary table of "recovered slumps"
-[`player_slump_summary.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/player_slump_summary.csv)
-- Player-level summary of slumps
-[`league_slump_summary.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/league_slump_summary.csv)
-- 1 row league-level summary of slumps
-[`player_next_game_recovery.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/player_next_game_recovery.csv)
-- Player-level summary of next-game recoveries
-[`league_next_game_recovery.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/league_next_game_recovery.csv)
-- 1 row league-level summary of next-game recoveries
-[`shot_volume_adjustment.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/shot_volume_adjustment.csv)
-- FGA in slumps vs FGA in recoveries (slump-level)
-[`player_shot_profile.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/player_shot_profile.csv)
-- FGA in slumps vs FGA in recoveries (player-level)
-[`league_shot_profile.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/league_shot_profile.csv)
-- FGA in slumps vs FGA in recoveries (1 row league-level summary)
+- [`player_slump_vs_recovery_ts.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/player_slump_vs_recovery_ts.csv)
+TS% in slumps vs TS% in recoveries (player-level)
+- [`all_slumps.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/all_slumps.csv)
+Summary table of all slumps
+- [`recovered_slumps.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/recovered_slumps.csv)
+Summary table of "recovered slumps"
+- [`player_slump_summary.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/player_slump_summary.csv)
+Player-level summary of slumps
+- [`league_slump_summary.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/league_slump_summary.csv)
+1 row league-level summary of slumps
+- [`player_next_game_recovery.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/player_next_game_recovery.csv)
+Player-level summary of next-game recoveries
+- [`league_next_game_recovery.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/league_next_game_recovery.csv)
+1 row league-level summary of next-game recoveries
+- [`shot_volume_adjustment.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/shot_volume_adjustment.csv)
+FGA in slumps vs FGA in recoveries (slump-level)
+- [`player_shot_profile.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/player_shot_profile.csv)
+FGA in slumps vs FGA in recoveries (player-level)
+- [`league_shot_profile.csv`](https://github.com/dylanbarrett-analytics/nba-2024-2025-slumps-and-recoveries/blob/main/analysis_csv/league_shot_profile.csv)
+FGA in slumps vs FGA in recoveries (1 row league-level summary)
 
 ### **Documentation**
 - `README.md`: Project documentation
