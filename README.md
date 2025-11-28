@@ -294,7 +294,7 @@ This makes sense considering that **TS% naturally favors centers**. They take a 
 
 What's even more interesting is how this plays out in the modern NBA, where seemingly everyone is running to the perimeter to shoot as many 3-pointers as possible. So much talk over the last 10 years or so has been that the "traditional big man" is becoming obsolete. However, TS% and this analysis show that centers are still so valuable in today's game.
 
-As metrics like this continue to become more mainstream, it's easy to imagine agents of centers increasingly leaning on TS% during contract negotiations.
+As metrics like this continue to become more mainstream, it's easy to imagine NBA centers' agents increasingly leaning on TS% during contract negotiations.
 
 ---
 
