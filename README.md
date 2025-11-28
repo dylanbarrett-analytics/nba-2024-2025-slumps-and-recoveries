@@ -34,7 +34,7 @@ TS\% = \frac{PTS}{2 \times (FGA + 0.44 \times FTA)}
 > TS\% = \frac{25}{35.28} = 0.709
 > ```
 > 
-> TS% = 70.9%, which is a highly efficient scoring performance. The NBA average for the 2024-2025 regular season was 58.3%.
+> TS% = 70.9%, which is a highly efficient scoring performance. The NBA average for the 2024-2025 regular season (among qualified players) was 58.3%.
 
 ---
 
