@@ -239,7 +239,7 @@ The league-wide average TS% is 58.3%.
 
 Slumps are measured **relative to the player** because scoring efficiency varies widely across the league. A fixed league-level threshold (e.g., TS% < 45%) would not trigger enough slumps for top-tier scorers, and it would trigger too many slumps for lower-tier scorers.
 
-Recoveries are measured **relative to the league average** so that all players are judged by the **same standard of scoring efficiency**. If recoveries were individualized player-level thresholds, then lower-tier scorers would easily "recover" to much lower TS% peaks while top-tier scorers would struggle to "recover" to much higher peaks. Using the league average ensures a fair, comparable benchmark for all players.
+Recoveries are measured **relative to the league average** so that all players are judged by the **same standard of scoring efficiency**. If recoveries were individualized player-level thresholds, then lower-tier scorers would easily "recover" to much lower TS% peaks while top-tier scorers would struggle to "recover" to much higher TS% peaks. Using the league average ensures a fair, comparable benchmark for all players.
 
 This hybrid approach ensures that **slumps are individualized** and **recoveries are comparable**.
 
