@@ -257,6 +257,8 @@ The league-wide average was **2.02 games to recover**, meaning that on average, 
 
 Nikola Jokić led the NBA, only needing 1.05 games to recover. In fact, out of his 21 total slumps across the season, only 1 slump lasted more than 1 game, which is simply amazing.
 
+<sub> 21 slumps may sound like a lot, but remember that slumps in this study refer to games below the player's personal standard. Jokić's standard is right at the top of today's NBA.
+
 ### Shot Volume Adjustment (Slumps → Recoveries)
 
 To see whether players changed their shooting approach in order to exit a slump, each player's **average field goal attempts (FGA) during slump games** was compared to their **average FGA during recovery games**.
