@@ -202,9 +202,9 @@ During the two merges, only the three columns (mentioned above) were kept. With 
 
 To trigger a slump, a player must have a game where his TS% is **below the slump threshold**:
 
-\[
-\text{Slump Threshold} = \text{Season TS\%} \;-\; k \times \sigma_{\text{TS\%}}
-\]
+```math
+\text{Slump Threshold} = \text{Season TS\%} - k \times \sigma_{\text{TS\%}}
+```
 
 - Season TS% = the player's TS% across all regular season games
 - σ_{TS%} = the standard deviation of the player's game-to-game TS% across all regular season games
