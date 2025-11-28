@@ -47,7 +47,7 @@ This filter ensures each player had a large enough shooting sample for their TS%
 
 All game log data was sourced directly from [**Basketball-Reference**](https://www.basketball-reference.com/). Automated data scraping methods proved unsuccessful, so each qualified player's game logs were manually copied and pasted (one by one) into a `.txt` file.
 
-> For example, here is [Nikola Jokić's 2024-2025 game log](https://www.basketball-reference.com/players/j/jokicni01/gamelog/2025) as a reference for how the raw data structure appears.
+> For example, here is [Austin Reaves' 2024-2025 game log](https://www.basketball-reference.com/players/r/reaveau01/gamelog/2025) as a reference for how the raw data structure appears.
 
 ---
 
