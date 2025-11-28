@@ -23,14 +23,6 @@ TS\% = \frac{PTS}{2 \times (FGA + 0.44 \times FTA)}
 > ```
 >
 > ```math
-> TS\% = \frac{25}{2 \times (15 + 2.64)}
-> ```
->
-> ```math
-> TS\% = \frac{25}{2 \times 17.64}
-> ```
->
-> ```math
 > TS\% = \frac{25}{35.28} = 0.709
 > ```
 > 
