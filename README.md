@@ -206,6 +206,7 @@ To trigger a slump, a player must have a game where his TS% is **below the slump
 \text{Slump Threshold} = \text{Season TS\%} - k \times \sigma_{\text{TS\%}}
 ```
 
+
 - Season TS% = the player's TS% across all regular season games
 - σ_{TS%} = the standard deviation of the player's game-to-game TS% across all regular season games
 - k = a chosen multiplier that controls how strict the slump definition is (k = 0.5 in this study)
@@ -217,9 +218,9 @@ To trigger a slump, a player must have a game where his TS% is **below the slump
 > - σ_{TS%} = 0.15
 > - k = 0.5
 >
-> \[
+> ```math
 > \text{Slump Threshold} = 0.58 \;-\; 0.5 \times 0.15 = 0.505
-> \]
+> ```
 >
 > If Player A has a game where his TS% is below 50.5%, then a slump has officially begun.
 
@@ -227,9 +228,9 @@ To trigger a slump, a player must have a game where his TS% is **below the slump
 
 In the midst of a slump, to trigger a recovery, a player must have a game where his TS% is **at least the recovery threshold**:
 
-\[
+```math
 \text{Recovery Threshold} = \text{League Average TS\%}
-\]
+```
 
 The league-wide average TS% is 58.3%.
 
